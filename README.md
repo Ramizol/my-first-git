@@ -1,1 +1,3 @@
-# my-first-gitMy first remote!
+# my-first-git
+
+My first remote!
